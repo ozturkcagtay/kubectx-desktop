@@ -1,6 +1,6 @@
 # kubectx-desktop
 
-![kubectx-desktop](view.png)
+![kubectx-desktop](gifimage.gif)
 
 ## Overview
 `kubectx-desktop` is a desktop application that provides a graphical user interface for managing Kubernetes contexts and namespaces. It simplifies the process of switching between different Kubernetes clusters and namespaces, making it easier for developers and DevOps engineers to work with multiple environments.
